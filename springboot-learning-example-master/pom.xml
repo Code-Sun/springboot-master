@@ -52,6 +52,9 @@
 		<!-- Spring Boot 之 HelloWorld 详解 -->
 		<module>springboot-helloworld</module>
 
+		<!-- Spring Boot 之 http 详解 -->
+		<module>springboot-http</module>
+
 		<!-- 数据缓存篇 -->
 		<!-- Spring Boot 整合 Mybatis 的完整 Web 案例 -->
 		<module>springboot-mybatis</module>
